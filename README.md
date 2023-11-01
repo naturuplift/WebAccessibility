@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 ```
 
 
-This Refactoring is evaluated based on the following criteria: 
+## This Refactoring is evaluated based on the following criteria: 
 
 ### Technical Acceptance Criteria: 
 
