@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Navigation style */
 /* Change div to nav element */
 .header nav {
     padding-top: 15px;
