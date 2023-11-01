@@ -24,7 +24,8 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+/* Change div to nav element */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,14 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* Change div to nav element */
+.header nav ul {
     list-style-type: none;
+   
 }
 
-.header div ul li {
+/* Change div to nav element */
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -57,6 +61,8 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    /* Add a block for span element */
+    display: block;
 }
 
 .float-left {
