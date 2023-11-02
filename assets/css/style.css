@@ -47,6 +47,7 @@ body {
     margin-left: 25px;
 }
 
+/* Page elements style */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -83,6 +84,8 @@ p {
     margin-left: 20px;
 }
 
+
+/* aside section style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -92,6 +95,8 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    /* Add a block for span element */
+    align-items: baseline;
 }
 
 .benefit-lead {
@@ -142,6 +147,7 @@ p {
     max-width: 150px;
 }
 
+/* Main Section elements style */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -196,6 +202,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer style */
 .footer {
     padding: 30px;
     clear: both;
