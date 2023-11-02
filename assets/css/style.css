@@ -64,7 +64,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    /* Add a block for span element */
+    /* block for span element */
     display: block;
 }
 
@@ -95,8 +95,6 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    /* Add a block for span element */
-    align-items: baseline;
 }
 
 .benefit-lead {
