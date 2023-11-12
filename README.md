@@ -1,5 +1,7 @@
 # Refactoring Code for Accessibility
 
+To view the demo: https://naturuplift.github.io/web-accessibility/
+
 **Web accessibility** is an inclusive practice to ensure that people with disabilities can access a website on the Wold Wide Web using assistive technologies. This is an important consideration for businesses to optimize webpage for search engines and .
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible. 
