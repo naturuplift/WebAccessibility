@@ -1,4 +1,16 @@
 # Web Accessibility Refactoring Project
+
+<br/>
+<p align="center">
+    <a href="https://unb.ca/cel/bootcamps/coding.html">
+        <img alt="University of New Brunswick" src="https://img.shields.io/static/v1.svg?label=bootcamp&message=UNB&color=red" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" >
+        <img alt="HTML - Semantic - Non-semantic Elements" src="https://img.shields.io/static/v1.svg?label=semantic&message=elements&color=blue" /></a>
+    <a href="[https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)" >
+        <img alt="CSS: Cascading Style Sheets" src="https://img.shields.io/static/v1.svg?label=CSS&message=advanced&color=yellow" /></a>
+</p>
+<br/>
+
 Welcome to the Web Accessibility Refactoring Project! Our mission is to enhance the accessibility of a webpage by meticulously refactoring its HTML code. Ensuring an inclusive online experience is at the core of this initiative.
 
 ## Project Overview
