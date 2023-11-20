@@ -6,7 +6,7 @@
         <img alt="University of New Brunswick" src="https://img.shields.io/static/v1.svg?label=bootcamp&message=UNB&color=red" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" >
         <img alt="HTML - Semantic - Non-semantic Elements" src="https://img.shields.io/static/v1.svg?label=semantic&message=elements&color=blue" /></a>
-    <a href="[[https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)" >
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">
         <img alt="CSS: Cascading Style Sheets" src="https://img.shields.io/static/v1.svg?label=CSS&message=basics&color=yellow" /></a>
 </p>
 <br/>
