@@ -11,7 +11,7 @@
 </p>
 <br/>
 
-Welcome to the Web Accessibility Refactoring Project! Our mission is to enhance the accessibility of a webpage by meticulously refactoring its HTML code. Ensuring an inclusive online experience is at the core of this initiative.
+Welcome to the Web Accessibility Refactoring Repository! Here, our goal is to improve webpage accessibility by carefully updating HTML code. This project emphasizes creating an inclusive web environment for everyone.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Welcome to the Web Accessibility Refactoring Project! Our mission is to enhance 
 
 ## Overview
 
-In today's digital age, web accessibility is not just a goal; it's a necessity. The internet serves as a gateway to information, services, and opportunities, and it should be accessible to everyone, regardless of their physical abilities. The Web Accessibility Refactoring Project is a dedicated effort to make the web more inclusive and equitable.
+In today's digital age, web accessibility is not just a goal; it's a necessity. The internet serves as a gateway to information, services, and opportunities, and it should be accessible to everyone, regardless of their physical abilities. The Web Accessibility Refactoring is a dedicated effort to make the web more inclusive and equitable.
 
 ## Demo and Screenshot
 
@@ -36,7 +36,7 @@ To experience the improved accessibility firsthand, check out the [Web Accessibi
 
 ## Web Accesibility
 
-Web accessibility is crucial for businesses, helping people with disabilities access websites through tools like video captions and screen readers. This not only boosts a site's search engine ranking but also prevents legal issues related to accessibility. While the topic can be complex, there's a simple set of criteria to follow in the project, outlined in the Acceptance Criteria section.
+Web accessibility is crucial for businesses, helping people with disabilities access websites through tools like video captions and screen readers. This not only boosts a site's search engine ranking but also prevents legal issues related to accessibility. While the topic can be complex, there's a simple set of criteria to follow in the process, outlined in the Acceptance Criteria section.
 Follow Guide [Easy Checks – A First Review of Web Accessibility][access-guide] to get you started!
 
 ### Goals
