@@ -13,12 +13,31 @@
 
 Welcome to the Web Accessibility Refactoring Project! Our mission is to enhance the accessibility of a webpage by meticulously refactoring its HTML code. Ensuring an inclusive online experience is at the core of this initiative.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Demo and Screenshot](#demo-and-screenshot)
+- [Web Accesibility](#web-accessibility)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [Get Involved](#get-involved)
+- [License](#license)
+
 ## Overview
 
 In today's digital age, web accessibility is not just a goal; it's a necessity. The internet serves as a gateway to information, services, and opportunities, and it should be accessible to everyone, regardless of their physical abilities. The Web Accessibility Refactoring Project is a dedicated effort to make the web more inclusive and equitable.
+
+## Demo and Screenshot
+
 To experience the improved accessibility firsthand, check out the [Web Accessibility Demo][web-access-demo].
 
 ![image](https://github.com/naturuplift/web-accessibility/assets/23546356/67e89579-6a7b-4972-9c57-dfdff0da134f)
+
+## Web Accesibility
+
+Web accessibility is crucial for businesses, helping people with disabilities access websites through tools like video captions and screen readers. This not only boosts a site's search engine ranking but also prevents legal issues related to accessibility. While the topic can be complex, there's a simple set of criteria to follow in the project, outlined in the Acceptance Criteria section.
+Follow Guide [Easy Checks – A First Review of Web Accessibility][access-guide] to get you started!
 
 ### Goals
 
@@ -52,6 +71,12 @@ The significance of this project lies in its potential to break down digital bar
 
 - **Concise Title Element:** The title element provides a concise and descriptive summary, contributing to a better understanding of the webpage's content.
 
+## Technologies Used
+
+- HTML
+- CSS
+- Git
+
 ## Contributing
 
 Feel free to explore the [source code on GitHub][source-code]. Your contributions and feedback are valuable in making this project more robust and universally accessible.
@@ -65,5 +90,6 @@ Whether you're a developer, designer, or advocate for accessibility, your input 
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
 [web-access-demo]: <https://naturuplift.github.io/web-accessibility/>
+[access-guide]: <https://www.w3.org/WAI/test-evaluate/preliminary/>
 [source-code]: <https://github.com/naturuplift/web-accessibility/blob/main/index.html>
 [MIT]: <https://github.com/naturuplift/web-accessibility/blob/main/LICENSE>
