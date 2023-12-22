@@ -1,4 +1,4 @@
-# Web Accessibility Refactoring Project
+# Web Accessibility Refactoring
 
 <br/>
 <p align="center">
@@ -13,11 +13,32 @@
 
 Welcome to the Web Accessibility Refactoring Project! Our mission is to enhance the accessibility of a webpage by meticulously refactoring its HTML code. Ensuring an inclusive online experience is at the core of this initiative.
 
-## Project Overview
+## Overview
 
+In today's digital age, web accessibility is not just a goal; it's a necessity. The internet serves as a gateway to information, services, and opportunities, and it should be accessible to everyone, regardless of their physical abilities. The Web Accessibility Refactoring Project is a dedicated effort to make the web more inclusive and equitable.
 To experience the improved accessibility firsthand, check out the [Web Accessibility Demo][web-access-demo].
 
 ![image](https://github.com/naturuplift/web-accessibility/assets/23546356/67e89579-6a7b-4972-9c57-dfdff0da134f)
+
+### Goals
+
+1.    **Enhanced Accessibility:** Our primary goal is to significantly improve the accessibility of a webpage. We aim to ensure that individuals with disabilities, including those who use assistive technologies such as screen readers, can seamlessly navigate and interact with the content.
+
+2.    **Education and Advocacy:** Beyond code changes, this project also serves as an educational resource. We aim to raise awareness about the importance of web accessibility and advocate for its integration into web development practices worldwide.
+
+3.    **Community Engagement:** We believe in the power of collaboration. This project is open to contributions from developers, designers, and accessibility advocates, fostering a community that actively works towards a more accessible web.
+
+### Significance
+
+The significance of this project lies in its potential to break down digital barriers and create a more inclusive online environment. Here are some key aspects of its significance:
+
+-    Equal Access: By improving web accessibility, we contribute to equal access to information, services, and opportunities for all individuals, regardless of their disabilities.
+
+-    Legal and Ethical Compliance: Many countries and regions have regulations that mandate web accessibility. By addressing accessibility issues, we help organizations comply with these legal requirements and uphold ethical standards.
+
+-    User-Centric Design: Web accessibility is not just about compliance; it's about putting users first. A more accessible website benefits all users, not just those with disabilities, by providing a better user experience.
+
+-    Learning Resource: This project serves as a practical learning resource for developers and designers interested in implementing accessibility best practices in their projects.
 
 ## Acceptance Criteria
 
