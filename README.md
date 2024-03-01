@@ -89,7 +89,7 @@ Whether you're a developer, designer, or advocate for accessibility, your input 
 
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
-[web-access-demo]: <https://naturuplift.github.io/web-accessibility/>
+[web-access-demo]: <https://naturuplift.github.io/WebAccessibility/>
 [access-guide]: <https://www.w3.org/WAI/test-evaluate/preliminary/>
 [source-code]: <https://github.com/naturuplift/web-accessibility/blob/main/index.html>
 [MIT]: <https://github.com/naturuplift/web-accessibility/blob/main/LICENSE>
